@@ -20,8 +20,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="processing inputs.ctl" Type="VI" URL="../module/execution/processing inputs.ctl"/>
-		<Item Name="processing outputs.ctl" Type="VI" URL="../module/execution/processing outputs.ctl"/>
 		<Item Name="Tagbus PID Module configuration.lvclass" Type="LVClass" URL="../module/configuration/Tagbus PID Module configuration.lvclass"/>
 		<Item Name="Tagbus PID Module editor node.lvclass" Type="LVClass" URL="../editor node/Tagbus PID Module editor node.lvclass"/>
 		<Item Name="Tagbus PID Module runtime.lvclass" Type="LVClass" URL="../module/execution/Tagbus PID Module runtime.lvclass"/>
