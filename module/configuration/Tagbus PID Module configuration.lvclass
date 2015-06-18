@@ -135,6 +135,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 		</Item>
+		<Item Name="generate pid channel name.vi" Type="VI" URL="../generate pid channel name.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$.!!!!"1!%!!!!&amp;E!Q`````QR$;'&amp;O&lt;G6M)%ZB&lt;75!!%.!&amp;A!&amp;#&amp;.F&gt;("P;7ZU"5&gt;B;7ZT"6*B&lt;G&gt;F%&amp;"S&lt;W.F=X-A6G&amp;S;7&amp;C&lt;'5'4X6U=(6U!!!-1WBB&lt;GZF&lt;#"5?8"F!!!51$$`````#EFE:7ZU;7:J:8)!!&amp;1!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!!!!A!$!A!!?!!!!!!!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!%+!!!!!!%!"!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1073742336</Property>
+		</Item>
 		<Item Name="get channels.vi" Type="VI" URL="../get channels.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;)!!!!"A!%!!!!*E"Q!"Y!!"546%*.)'.I97ZO:7QO&lt;(:D&lt;'&amp;T=Q!(9WBB&lt;GZF&lt;!!71%!!!@````]!!1BD;'&amp;O&lt;G6M=Q!!6E"Q!"Y!!#EH6'&amp;H9H6T)&amp;"*2#".&lt;W2V&lt;'5A9W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T!#.597&gt;C&gt;8-A5%F%)%VP:(6M:3"D&lt;WZG;7&gt;V=G&amp;U;7^O)'^V&gt;!"71(!!(A!!+3&gt;597&gt;C&gt;8-A5%F%)%VP:(6M:3"D&lt;WZG;7&gt;V=G&amp;U;7^O,GRW9WRB=X-!)F2B:W*V=S"1351A47^E&gt;7RF)'.P&lt;G:J:X6S982J&lt;WYA;7Y!!&amp;1!]!!-!!!!!!!#!!-!!!!!!!!!!!!!!!!!!!!%!Q!!?!!!!!!!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!%!"1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -222,14 +231,5 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
 		</Item>
-	</Item>
-	<Item Name="generate pid channel name.vi" Type="VI" URL="../generate pid channel name.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$"!!!!"1!%!!!!%E!Q`````QB597=A4G&amp;N:1!!/U!7!!5)5W6U='^J&lt;H1&amp;2W&amp;J&lt;H-&amp;5G&amp;O:W515(*P9W6T=S"798*J97*M:1:0&gt;82Q&gt;81!!!2&amp;&lt;H6N!!!51$$`````#EFE:7ZU;7:J:8)!!&amp;1!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!!!!A!$!A!!?!!!!!!!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!%+!!!!!!%!"!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 </LVClass>

@@ -117,6 +117,7 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="apply channel changes.vi" Type="VI" URL="../module/configuration/apply channel changes.vi"/>
+			<Item Name="configure operation.vi" Type="VI" URL="../editor node/configure operation.vi"/>
 			<Item Name="rename channel.vi" Type="VI" URL="../module/configuration/rename channel.vi"/>
 			<Item Name="set channel.vi" Type="VI" URL="../module/configuration/set channel.vi"/>
 		</Item>
