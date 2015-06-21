@@ -12,4 +12,5 @@
 	<Item Name="example test.vi" Type="VI" URL="../example test.vi"/>
 	<Item Name="flatten and unflatten test.vi" Type="VI" URL="../../module/configuration/PID Loop/flatten and unflatten test.vi"/>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
+	<Item Name="test editor validation.vi" Type="VI" URL="../../../../Dropbox/Tanner&apos;s Work/PID Module/configuration/PID Loop/test editor validation.vi"/>
 </Library>
