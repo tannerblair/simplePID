@@ -20,6 +20,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="PID Loop.lvclass" Type="LVClass" URL="../module/configuration/PID Loop.lvclass"/>
 		<Item Name="Tagbus PID Module configuration.lvclass" Type="LVClass" URL="../module/configuration/Tagbus PID Module configuration.lvclass"/>
 		<Item Name="Tagbus PID Module editor node.lvclass" Type="LVClass" URL="../editor node/Tagbus PID Module editor node.lvclass"/>
 		<Item Name="Tagbus PID Module runtime.lvclass" Type="LVClass" URL="../module/execution/Tagbus PID Module runtime.lvclass"/>
@@ -116,8 +117,6 @@
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="rename channel.vi" Type="VI" URL="../module/configuration/rename channel.vi"/>
-			<Item Name="set channel.vi" Type="VI" URL="../module/configuration/set channel.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

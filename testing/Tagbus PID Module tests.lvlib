@@ -10,8 +10,6 @@
 	<Item Name="channel operation tests.vi" Type="VI" URL="../channel operation tests.vi"/>
 	<Item Name="create default channels.vi" Type="VI" URL="../create default channels.vi"/>
 	<Item Name="example test.vi" Type="VI" URL="../example test.vi"/>
+	<Item Name="flatten and unflatten test.vi" Type="VI" URL="../../module/configuration/PID Loop/flatten and unflatten test.vi"/>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
-	<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
-	<Item Name="rename channel test.vi" Type="VI" URL="../rename channel test.vi"/>
-	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
 </Library>
