@@ -14,5 +14,4 @@
 	<Item Name="flatten and unflatten test.vi" Type="VI" URL="../../module/configuration/PID Loop/flatten and unflatten test.vi"/>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
 	<Item Name="pid array element to object test.vi" Type="VI" URL="../pid array element to object test.vi"/>
-	<Item Name="test configuration validation.vi" Type="VI" URL="../../../../Desktop/test configuration validation.vi"/>
 </Library>
