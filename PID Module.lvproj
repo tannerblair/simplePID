@@ -21,9 +21,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="PID Loop.lvclass" Type="LVClass" URL="../module/configuration/PID Loop.lvclass"/>
-		<Item Name="Tagbus PID Module configuration.lvclass" Type="LVClass" URL="../module/configuration/Tagbus PID Module configuration.lvclass"/>
-		<Item Name="Tagbus PID Module editor node.lvclass" Type="LVClass" URL="../editor node/Tagbus PID Module editor node.lvclass"/>
-		<Item Name="Tagbus PID Module runtime.lvclass" Type="LVClass" URL="../module/execution/Tagbus PID Module runtime.lvclass"/>
+		<Item Name="PID Module configuration.lvclass" Type="LVClass" URL="../module/configuration/PID Module configuration.lvclass"/>
+		<Item Name="PID Module editor node.lvclass" Type="LVClass" URL="../editor node/PID Module editor node.lvclass"/>
+		<Item Name="PID Module runtime.lvclass" Type="LVClass" URL="../module/execution/PID Module runtime.lvclass"/>
 		<Item Name="Tagbus PID Module tests.lvlib" Type="Library" URL="../testing/Tagbus PID Module tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -114,9 +114,9 @@
 				<Item Name="Tools_KeyedArray.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Tools/Keyed Array/Tools_KeyedArray.lvlib"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="Unset Busy.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Unset Busy.vi"/>
-				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="get mappable tags.vi" Type="VI" URL="../editor node/get mappable tags.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
